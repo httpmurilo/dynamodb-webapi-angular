@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWZrfFLBDDIeei1CutBvl9LZXxui2VgIwqaQbZ//ACSiYG5N0oKJmhzLzLg+0+42vg2Osiw9j6j/CwjY8nkMIw==",
+  "success": true,
+  "projectFilePath": "/Volumes/Secondary/flex/india/Source.Api/Loja.csproj",
+  "expectedPackageFiles": [
+    "/Users/muriloeduardo/.nuget/packages/awssdk.core/3.5.0-beta/awssdk.core.3.5.0-beta.nupkg.sha512",
+    "/Users/muriloeduardo/.nuget/packages/awssdk.dynamodbv2/3.5.0-beta/awssdk.dynamodbv2.3.5.0-beta.nupkg.sha512"
+  ],
+  "logs": []
+}
